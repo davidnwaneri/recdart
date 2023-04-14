@@ -1,4 +1,4 @@
-# dart_rec
+# RecDart
 
 # Recursion in Dart Language
 
@@ -19,7 +19,7 @@ To use these examples, you will need to have Dart installed on your machine. You
 Once you have Dart installed, you can clone this repository using the following command:
 
 ```
-git clone https://github.com/davidnwaneri/dart_rec.git
+git clone https://github.com/davidnwaneri/recdart.git
 ```
 
 ## Examples
