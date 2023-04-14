@@ -35,9 +35,9 @@ bool isPalindrome(String input) {
   if (input.length <= 1) return true;
 
   final firstChar = input.split('')[0];
-  final secondChar = input.split('')[input.length - 1];
+  final lastChar = input.split('')[input.length - 1];
 
-  if (firstChar == secondChar) {
+  if (firstChar == lastChar) {
     return isPalindrome(input.substring(1, input.length - 1));
   }
   return false;
