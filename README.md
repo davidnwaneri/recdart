@@ -42,6 +42,10 @@ bool isPalindrome(String input) {
   }
   return false;
 }
+
+//Usage
+print(isPolindrome('racecar') // Output: true
+print(isPolindrome('ketchup') // Output: false
 ```
 
 
