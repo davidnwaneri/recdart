@@ -12,12 +12,6 @@ Recursion is a technique of solving a problem by breaking it down into smaller s
 
 Recursion can simplify complex problems that can be broken down into smaller, similar sub-problems. It can also make code more readable and easier to maintain.
 
-## Examples
-
-This repository contains the following examples of recursion in Dart language:
-
-1. **[Palindrome](#palindrome):** A palindrome is a word, phrase, number, or sequence of characters that reads the same backward as forward. For example, "racecar".
-
 ## Getting Started
 
 To use these examples, you will need to have Dart installed on your machine. You can download and install Dart from the official website [https://dart.dev/get-dart](https://dart.dev/get-dart), or you can quickly get started by using [dartpad](https://dartpad.dev/).
@@ -27,6 +21,12 @@ Once you have Dart installed, you can clone this repository using the following 
 ```
 git clone https://github.com/davidnwaneri/dart_rec.git
 ```
+
+## Examples
+
+This repository contains the following examples of recursion in Dart language:
+
+1. **[Palindrome](#palindrome):** A palindrome is a word, phrase, number, or sequence of characters that reads the same backward as forward. For example, "racecar".
 
 ### Palindrome
 
