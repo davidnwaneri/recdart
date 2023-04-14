@@ -43,9 +43,9 @@ bool isPalindrome(String input) {
   return false;
 }
 
-//Usage
-print(isPolindrome('racecar') // Output: true
-print(isPolindrome('ketchup') // Output: false
+// Usage example
+print(isPalindrome('racecar') // Output: true
+print(isPalindrome('ketchup') // Output: false
 ```
 
 
